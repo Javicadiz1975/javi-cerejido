@@ -1,14 +1,36 @@
 
-<img src="https://github.com/Javicadiz1975/javi-cerejido/raw/main/IMG_E1252.JPG" alt="Mi Foto de Perfil" width="150" style="border-radius: 50%;">
+<div align="center">
+  <img src="https://github.com/Javicadiz1975/javi-cerejido/raw/main/IMG_E1252.JPG" alt="Mi Foto de Perfil" width="150" style="border-radius: 50%;">
 
-# ¡Hola!  Soy Javier Cerejido
+  # ¡Hola! Soy **Javier Cerejido**
 
-Soy un desarrollador enfocado en **Desarrollo de Aplicaciones Multiplataforma (DAM)** y actualmente trabajo en [Aciturri_Corporate](https://www.aciturri.com/es/))
+  <p>
+    **Desarrollador de Aplicaciones Multiplataforma (DAM)** en [Aciturri Corporate](https://www.aciturri.com/es/)  
+  </p>
+</div>
 
-En mi rol, me enfoco en crear soluciones efectivas que puedan funcionar en diversos entornos, optimizando tanto la funcionalidad como la experiencia de usuario.
+---
 
-Me destaco por mi capacidad de análisis, lo que me permite abordar cada proyecto con una visión detallada y estratégica, anticipándome a posibles problemas y encontrando soluciones innovadoras. Además, mi curiosidad me impulsa constantemente a explorar nuevas tecnologías y metodologías, buscando siempre maneras de mejorar y aprender. Esta combinación de habilidades me permite aportar un valor añadido en cada proyecto en el que participo.
+### 📋 Sobre mí
+Soy un desarrollador enfocado en **Desarrollo de Aplicaciones Multiplataforma (DAM)**. En mi rol actual, me especializo en crear soluciones efectivas y multiplataforma que optimizan tanto la funcionalidad como la experiencia de usuario.
 
+### 🚀 Habilidades
+- **Capacidad de análisis**: Abordo cada proyecto con una visión detallada y estratégica, anticipándome a posibles problemas y encontrando soluciones innovadoras.
+- **Curiosidad**: Estoy constantemente explorando nuevas tecnologías y metodologías para mejorar y aprender continuamente.
+
+### 🎯 Objetivo
+Aportar un valor añadido en cada proyecto en el que participo, siempre buscando maneras de innovar y optimizar.
+
+---
+
+### 🔗 Contacto
+[LinkedIn](https://www.linkedin.com/in/javier-cerejido) • [Correo](mailto:tuemail@ejemplo.com)
+
+---
+
+<div align="center">
+  *¡Gracias por visitar mi perfil!*
+</div>
 ---
 
 ### Conéctate conmigo
