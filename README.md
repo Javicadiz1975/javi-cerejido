@@ -36,7 +36,7 @@ Aportar un valor añadido en cada proyecto en el que participo, siempre buscando
 ---
 
 ### Proyectos Destacados
-- [Sistema de Validación de Formularios]([https://github.com/Javicadiz1975/sistema-validacion-formularios](https://github.com/Javicadiz1975/Validacion_Formulario)) - Aplicación de validación de formularios en Java.
+- [Sistema de Validación de Formularios](https://github.com/Javicadiz1975/Validacion_Formulario) - Aplicación de validación de formularios en Java.
 - [Carreras de Caballos con Cartas](https://github.com/Javicadiz1975/carreras-caballos-cartas) - Juego de cartas basado en carreras de caballos.
 
 ---
