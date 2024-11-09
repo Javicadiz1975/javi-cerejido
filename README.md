@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/Javicadiz1975/javi-cerejido/raw/main/IMG_E1252.JPG" alt="Mi Foto de Perfil" width="150" height="150" style="border-radius: 50%; border: 4px solid #ddd; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); object-fit: cover;">
 
-  # ¡Hola! Soy **Javier Cerejido**
+  <p> ¡Hola! Soy <strong>Javier Cerejido</strong> </p>
 
  <p>
   <strong>Desarrollador de Aplicaciones Multiplataforma (DAM)</strong>, actualmente trabajo en <a href="https://www.aciturri.com/es/">Aciturri Corporate</a>
