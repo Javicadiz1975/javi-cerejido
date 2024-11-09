@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://github.com/Javicadiz1975/javi-cerejido/raw/main/IMG_E1252.JPG" alt="Mi Foto de Perfil" width="150" style="border-radius: 50%;">
+  <img src="https://github.com/Javicadiz1975/javi-cerejido/raw/main/IMG_E1252.JPG" alt="Mi Foto de Perfil" width="150" height="150" style="border-radius: 50%; border: 4px solid #ddd; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3);">
 
   # ¡Hola! Soy **Javier Cerejido**
 
