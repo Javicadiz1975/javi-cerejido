@@ -36,7 +36,8 @@ Aportar un valor añadido en cada proyecto en el que participo, siempre buscando
 ### Proyectos Destacados
 - [Sistema de Validación de Formularios](https://github.com/Javicadiz1975/Validacion_Formulario) - Aplicación de validación de formularios en Java.
 - [Carreras de Caballos con Cartas](https://github.com/Javicadiz1975/carreras-caballos-cartas) - Juego de cartas basado en carreras de caballos.
-- [aplicación de escritorio en Python para generar contraseñas seguras](https://github.com/Javicadiz1975/Generador_Contrase-a_segura) - aplicación de escritorio en Python para generar contraseñas seguras
+- [aplicación de escritorio en Python para generar contraseñas seguras](https://github.com/Javicadiz1975/Generador_Contrase-a_segura) - Aplicación de escritorio en Python para generar contraseñas seguras
+- [script en Python que realiza un seguimiento del precio]( https://github.com/Javicadiz1975/Web-Scraper-para-Precios-de-Productos-Con-Alerta-de-Cambio-de-Precio-) - Script en Python que realiza un seguimiento del precio
 ---
 
 ### GitHub Stats
