@@ -1,15 +1,11 @@
 <div align="center">
   <img src="https://github.com/Javicadiz1975/javi-cerejido/raw/main/IMG_E1252.JPG" alt="Mi Foto de Perfil" width="150" style="border-radius: 50%; border: 4px solid #ddd; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3);">
-
   # ¡Hola! Soy **Javier Cerejido**
-
   <p>
     **Desarrollador de Aplicaciones Multiplataforma (DAM)** en [Aciturri Corporate](https://www.aciturri.com/es/)  
   </p>
 </div>
-
 ---
-
 ### 📋 Sobre mí
 Soy un desarrollador enfocado en **Desarrollo de Aplicaciones Multiplataforma (DAM)**. En mi rol actual, me especializo en crear soluciones efectivas y multiplataforma que optimizan tanto la funcionalidad como la experiencia de usuario.
 
@@ -21,15 +17,7 @@ Soy un desarrollador enfocado en **Desarrollo de Aplicaciones Multiplataforma (D
 
 ### 🎯 Objetivo
 Aportar un valor añadido en cada proyecto en el que participo, siempre buscando maneras de innovar y optimizar.
-
 ---
-
-### Conéctate conmigo
-
-[![Correo](https://img.shields.io/badge/Correo-Contacto-red?style=flat&logo=hotmail)](mailto:ivajcc@hotmail.com)
-
----
-
 ### Skills
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
@@ -50,3 +38,9 @@ Aportar un valor añadido en cada proyecto en el que participo, siempre buscando
 ### GitHub Stats
 
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Javicadiz1975&layout=compact&theme=radical)
+
+---
+
+### Conéctate conmigo
+
+[![Correo](https://img.shields.io/badge/Correo-Contacto-red?style=flat&logo=hotmail)](mailto:ivajcc@hotmail.com)
