@@ -34,12 +34,12 @@ Aportar un valor añadido en cada proyecto en el que participo, siempre buscando
 ---
 
 ### Proyectos Destacados
-- [Sistema de Validación de Formularios](https://github.com/Javicadiz1975/Validacion_Formulario) - Aplicación de validación de formularios en Java.
+- [Validación de Formularios](https://github.com/Javicadiz1975/Validacion_Formulario) - Aplicación de validación de formularios en Java.
 - [Carreras de Caballos con Cartas](https://github.com/Javicadiz1975/carreras-caballos-cartas)
-- [Aplicación de escritorio en Python para generar contraseñas seguras](https://github.com/Javicadiz1975/Generador_Contrase-a_segura)
-- [Script en Python que realiza un seguimiento del precio]( https://github.com/Javicadiz1975/Web-Scraper-para-Precios-de-Productos-Con-Alerta-de-Cambio-de-Precio-)
-- [Conversor de Monedas Con Historial de Conversión-y-Graficos](https://github.com/Javicadiz1975/Conversor-de-Monedas-Con-Historial-de-Conversi-n-y-Gr-ficos-)
-- [Análisis exploratorio de un conjunto de datos de ventas para identificar tendencias y patrones](https://github.com/Javicadiz1975/An-lisis-Exploratorio-de-Datos-de-Ventas)
+- [Aplicación de escritorio para generar contraseñas seguras](https://github.com/Javicadiz1975/Generador_Contrase-a_segura)
+- [Seguimiento del precio]( https://github.com/Javicadiz1975/Web-Scraper-para-Precios-de-Productos-Con-Alerta-de-Cambio-de-Precio-)
+- [Conversor de Monedas Con Historial de Conversión y Graficos](https://github.com/Javicadiz1975/Conversor-de-Monedas-Con-Historial-de-Conversi-n-y-Gr-ficos-)
+- [Análisis conjunto de datos de ventas para identificar tendencias y patrones](https://github.com/Javicadiz1975/An-lisis-Exploratorio-de-Datos-de-Ventas)
 
 ### GitHub Stats
 
