@@ -30,6 +30,10 @@ Aportar un valor añadido en cada proyecto en el que participo, siempre buscando
 ![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=flat&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Fabric](https://img.shields.io/badge/Fabric-316192?style=flat&logo=fabric&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=database&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
 
 ---
 
