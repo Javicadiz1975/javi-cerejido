@@ -1,11 +1,15 @@
 <div align="center">
   <img src="https://github.com/Javicadiz1975/javi-cerejido/raw/main/IMG_E1252.JPG" alt="Mi Foto de Perfil" width="150" style="border-radius: 50%; border: 4px solid #ddd; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3);">
+
   # ¡Hola! Soy **Javier Cerejido**
+
   <p>
     **Desarrollador de Aplicaciones Multiplataforma (DAM)** en [Aciturri Corporate](https://www.aciturri.com/es/)  
   </p>
 </div>
+
 ---
+
 ### 📋 Sobre mí
 Soy un desarrollador enfocado en **Desarrollo de Aplicaciones Multiplataforma (DAM)**. En mi rol actual, me especializo en crear soluciones efectivas y multiplataforma que optimizan tanto la funcionalidad como la experiencia de usuario.
 
