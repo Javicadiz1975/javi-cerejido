@@ -1,5 +1,5 @@
 
-<img src="[URL_DE_TU_IMAGEN](https://github.com/Javicadiz1975/javi-cerejido/blob/main/IMG_E1252.JPG)" alt="Mi Foto de Perfil" width="150" style="border-radius: 50%;">
+<img src="(https://github.com/Javicadiz1975/javi-cerejido/blob/main/IMG_E1252.JPG)" alt="Mi Foto de Perfil" width="150" style="border-radius: 50%;">
 
 # ¡Hola!  Soy Javier Cerejido
 
