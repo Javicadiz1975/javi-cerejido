@@ -5,18 +5,20 @@
   # ¡Hola! Soy **Javier Cerejido**
 
   <p>
-    **Desarrollador de Aplicaciones Multiplataforma (DAM)** actualmente trabajo en [Aciturri Corporate](https://www.aciturri.com/es/)  
+    **Desarrollador de Aplicaciones Multiplataforma (DAM)** en [Aciturri Corporate](https://www.aciturri.com/es/)  
   </p>
 </div>
 
 ---
+
+### 📋 Sobre mí
+Soy un desarrollador enfocado en **Desarrollo de Aplicaciones Multiplataforma (DAM)**. En mi rol actual, me especializo en crear soluciones efectivas y multiplataforma que optimizan tanto la funcionalidad como la experiencia de usuario.
 
 ### 🚀 Habilidades
 - **Capacidad de análisis**: Abordo cada proyecto con una visión detallada y estratégica, anticipándome a posibles problemas y encontrando soluciones innovadoras.
 - **Curiosidad**: Exploro constantemente nuevas tecnologías y metodologías para mejorar y aprender continuamente.
 - **Orden y limpieza**: Mantengo un enfoque estructurado y ordenado en todos los aspectos del desarrollo.
 - **Perfeccionismo**: Busco siempre la excelencia en cada detalle para ofrecer soluciones de alta calidad.
-
 
 ### 🎯 Objetivo
 Aportar un valor añadido en cada proyecto en el que participo, siempre buscando maneras de innovar y optimizar.
