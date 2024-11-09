@@ -39,7 +39,7 @@ Aportar un valor añadido en cada proyecto en el que participo, siempre buscando
 - [Aplicación de escritorio en Python para generar contraseñas seguras](https://github.com/Javicadiz1975/Generador_Contrase-a_segura)
 - [Script en Python que realiza un seguimiento del precio]( https://github.com/Javicadiz1975/Web-Scraper-para-Precios-de-Productos-Con-Alerta-de-Cambio-de-Precio-)
 - [Conversor de Monedas Con Historial de Conversión-y-Graficos](https://github.com/Javicadiz1975/Conversor-de-Monedas-Con-Historial-de-Conversi-n-y-Gr-ficos-)
-- https://github.com/Javicadiz1975/Conversor-de-Monedas-Con-Historial-de-Conversi-n-y-Gr-ficos-
+
 ---
 
 ### GitHub Stats
