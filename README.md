@@ -34,7 +34,7 @@ Aportar un valor añadido en cada proyecto en el que participo, siempre buscando
 ---
 
 ### Proyectos Destacados
-- [Validación de Formularios](https://github.com/Javicadiz1975/Validacion_Formulario) - Aplicación de validación de formularios en Java.
+- [Validación de Formularios](https://github.com/Javicadiz1975/Validacion_Formulario)
 - [Carreras de Caballos con Cartas](https://github.com/Javicadiz1975/carreras-caballos-cartas)
 - [Aplicación de escritorio para generar contraseñas seguras](https://github.com/Javicadiz1975/Generador_Contrase-a_segura)
 - [Seguimiento del precio]( https://github.com/Javicadiz1975/Web-Scraper-para-Precios-de-Productos-Con-Alerta-de-Cambio-de-Precio-)
