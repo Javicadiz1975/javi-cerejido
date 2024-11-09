@@ -22,20 +22,6 @@ Soy un desarrollador enfocado en **Desarrollo de Aplicaciones Multiplataforma (D
 ### 🎯 Objetivo
 Aportar un valor añadido en cada proyecto en el que participo, siempre buscando maneras de innovar y optimizar.
 
-
-### 🎯 Objetivo
-Aportar un valor añadido en cada proyecto en el que participo, siempre buscando maneras de innovar y optimizar.
-
----
-
-### 🔗 Contacto
-[LinkedIn](https://www.linkedin.com/in/javier-cerejido) • [Correo](mailto:tuemail@ejemplo.com)
-
----
-
-<div align="center">
-  *¡Gracias por visitar mi perfil!*
-</div>
 ---
 
 ### Conéctate conmigo
