@@ -30,5 +30,5 @@ Soy un desarrollador enfocado en **Desarrollo de Aplicaciones Multiplataforma (D
 ---
 
 ### GitHub Stats
-![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Javicadiz1975&show_icons=true&theme=radical)
+
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Javicadiz1975&layout=compact&theme=radical)
