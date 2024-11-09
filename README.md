@@ -1,4 +1,4 @@
-![Mi Foto de Perfil](URL_DE_TU_IMAGEN) <!-- Imagen de banner personalizada -->
+![Mi Foto de Perfil](https://github.com/Javicadiz1975/javi-cerejido/blob/main/IMG_E1252.JPG) <!-- Imagen de banner personalizada -->
 
 # ¡Hola!  Soy Javier Cerejido
 
