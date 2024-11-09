@@ -1,8 +1,10 @@
 ![Banner](https://ruta-a-tu-banner.com/imagen.png) <!-- Imagen de banner personalizada -->
 
-# ¡Hola! 👋 Soy [Tu Nombre]
+# ¡Hola!  Soy [Javier Cerejido]
 
-Soy un desarrollador enfocado en **Desarrollo de Aplicaciones Multiplataforma (DAM)** y actualmente trabajo en [Grupo 07](https://www.grupo07.com).
+Soy un desarrollador enfocado en **Desarrollo de Aplicaciones Multiplataforma (DAM)** y actualmente trabajo en [Aciturri_Corporate](https://www.aciturri.com/es/))En mi rol, me enfoco en crear soluciones efectivas que puedan funcionar en diversos entornos, optimizando tanto la funcionalidad como la experiencia de usuario.
+
+Me destaco por mi capacidad de análisis, lo que me permite abordar cada proyecto con una visión detallada y estratégica, anticipándome a posibles problemas y encontrando soluciones innovadoras. Además, mi curiosidad me impulsa constantemente a explorar nuevas tecnologías y metodologías, buscando siempre maneras de mejorar y aprender. Esta combinación de habilidades me permite aportar un valor añadido en cada proyecto en el que participo.
 
 ---
 
