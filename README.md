@@ -15,17 +15,20 @@ Soy un desarrollador enfocado en **Desarrollo de Aplicaciones Multiplataforma (D
 ### Skills
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=flat&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ---
 
 ### Proyectos Destacados
-- [Sistema de Validación de Formularios](https://github.com/tu-usuario/sistema-validacion-formularios) - Aplicación de validación de formularios en Java.
-- [Carreras de Caballos con Cartas](https://github.com/tu-usuario/carreras-caballos-cartas) - Juego de cartas basado en carreras de caballos.
+- [Sistema de Validación de Formularios](https://github.com/Javicadiz1975/sistema-validacion-formularios) - Aplicación de validación de formularios en Java.
+- [Carreras de Caballos con Cartas](https://github.com/Javicadiz1975/carreras-caballos-cartas) - Juego de cartas basado en carreras de caballos.
 
 ---
 
 ### GitHub Stats
-![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical)
+![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Javicadiz1975&show_icons=true&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Javicadiz1975&layout=compact&theme=radical)
