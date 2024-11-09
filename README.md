@@ -7,8 +7,8 @@ Soy un desarrollador enfocado en **Desarrollo de Aplicaciones Multiplataforma (D
 ---
 
 ### Conéctate conmigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=flat&logo=linkedin)](https://linkedin.com/in/tu-usuario)
-[![Correo](https://img.shields.io/badge/Correo-Contacto-red?style=flat&logo=gmail)](mailto:tu-email@gmail.com)
+
+[![Correo](https://img.shields.io/badge/Correo-Contacto-red?style=flat&logo=hotmail)](mailto:ivajcc@hotmail.com)
 
 ---
 
