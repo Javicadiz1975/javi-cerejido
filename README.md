@@ -11,13 +11,18 @@
 ---
 
 ### 📋 Sobre mí
-Soy un desarrollador enfocado en **Desarrollo de Aplicaciones Multiplataforma (DAM)**. En mi rol actual, me especializo en crear soluciones efectivas y multiplataforma que optimizan tanto la funcionalidad como la experiencia de usuario.
+Soy un desarrollador especializado en ***Desarrollo de Aplicaciones Multiplataforma*** (DAM), con experiencia en la creación de soluciones tecnológicas robustas, eficientes y orientadas al usuario. En mi rol actual, me enfoco en el diseño e implementación de aplicaciones móviles y de escritorio que ofrecen una experiencia fluida en diferentes plataformas, optimizando tanto la funcionalidad como la usabilidad.
+
+Además, tengo experiencia en el desarrollo de cuadros de mando interactivos para análisis y visualización de datos, así como en la implementación de aplicaciones orientadas a usuarios finales, incluyendo funcionalidades como autenticación, gestión de contenidos, notificaciones, y sincronización con bases de datos locales y remotas.
+
+Mi enfoque combina un alto nivel de detalle técnico con una visión centrada en el usuario, lo que me permite entregar productos de calidad, escalables y alineados con las necesidades reales del cliente.
 
 ### 🚀 Habilidades
 - **Capacidad de análisis**: Abordo cada proyecto con una visión detallada y estratégica, anticipándome a posibles problemas y encontrando soluciones innovadoras.
 - **Curiosidad**: Exploro constantemente nuevas tecnologías y metodologías para mejorar y aprender continuamente.
 - **Orden y limpieza**: Mantengo un enfoque estructurado y ordenado en todos los aspectos del desarrollo.
 - **Perfeccionismo**: Busco siempre la excelencia en cada detalle para ofrecer soluciones de alta calidad.
+
 
 ### 🎯 Objetivo
 Aportar un valor añadido en cada proyecto en el que participo, siempre buscando maneras de innovar y optimizar.
