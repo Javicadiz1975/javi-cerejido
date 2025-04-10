@@ -34,6 +34,10 @@ Aportar un valor añadido en cada proyecto en el que participo, siempre buscando
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=database&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat&logo=ionic&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 
 ---
 
@@ -44,6 +48,10 @@ Aportar un valor añadido en cada proyecto en el que participo, siempre buscando
 - [Seguimiento del precio]( https://github.com/Javicadiz1975/Web-Scraper-para-Precios-de-Productos-Con-Alerta-de-Cambio-de-Precio-)
 - [Conversor de Monedas Con Historial de Conversión y Graficos](https://github.com/Javicadiz1975/Conversor-de-Monedas-Con-Historial-de-Conversi-n-y-Gr-ficos-)
 - [Análisis conjunto de datos de ventas para identificar tendencias y patrones](https://github.com/Javicadiz1975/An-lisis-Exploratorio-de-Datos-de-Ventas)
+- [App Kotlin Spacex](https://github.com/Javicadiz1975/Api-Kotlin-Spacex)
+- [App Consola](https://github.com/Javicadiz1975/App_carrera_caballos)
+- [App Musica](https://github.com/Javicadiz1975/App_musica)
+- [Sopa_letra](https://github.com/Javicadiz1975/App_SopaDeLetras)
 
 ### GitHub Stats
 
