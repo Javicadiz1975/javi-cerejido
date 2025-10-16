@@ -10,22 +10,32 @@
 
 ---
 
-### 📋 Sobre mí
-Soy un desarrollador especializado en ***Desarrollo de Aplicaciones Multiplataforma*** (DAM), con experiencia en la creación de soluciones tecnológicas robustas, eficientes y orientadas al usuario. En mi rol actual, me enfoco en el diseño e implementación de aplicaciones móviles y de escritorio que ofrecen una experiencia fluida en diferentes plataformas, optimizando tanto la funcionalidad como la usabilidad.
+💼 **Sobre mí**  
+Soy desarrollador especializado en **Aplicaciones Multiplataforma**, con un enfoque orientado a soluciones inteligentes que combinan **desarrollo, automatización (RPA) y analítica de datos con Microsoft Fabric**.
 
-Además, tengo experiencia en el desarrollo de cuadros de mando interactivos para análisis y visualización de datos, así como en la implementación de aplicaciones orientadas a usuarios finales, incluyendo funcionalidades como autenticación, gestión de contenidos, notificaciones, y sincronización con bases de datos locales y remotas.
+En mi rol actual, diseño soluciones **end-to-end**, desde la **creación de aplicaciones conectadas a servicios cloud**, hasta la **orquestación de datos mediante Dataflows y Pipelines**, y la **implementación de Lakehouse y Warehouse** para estructurar y gobernar el dato en un entorno escalable y orientado a analítica empresarial.
 
-Mi enfoque combina un alto nivel de detalle técnico con una visión centrada en el usuario, lo que me permite entregar productos de calidad, escalables y alineados con las necesidades reales del cliente.
+---
 
-### 🚀 Habilidades
-- **Capacidad de análisis**: Abordo cada proyecto con una visión detallada y estratégica, anticipándome a posibles problemas y encontrando soluciones innovadoras.
-- **Curiosidad**: Exploro constantemente nuevas tecnologías y metodologías para mejorar y aprender continuamente.
-- **Orden y limpieza**: Mantengo un enfoque estructurado y ordenado en todos los aspectos del desarrollo.
-- **Perfeccionismo**: Busco siempre la excelencia en cada detalle para ofrecer soluciones de alta calidad.
+📊 **Ecosistema de datos y BI con Fabric**
+- Desarrollo de **dashboards y modelos semánticos en Power BI** (DAX, Power Query, rendimiento y gobernanza).
+- **Conexión de datos a APIs y bases de datos** para modelos analíticos actualizables.
+- **Dataflows y Pipelines en Fabric y Data Factory** para cargas y transformaciones automatizadas.
+- **Creación y gestión de entornos Lakehouse y Warehouse**, diseñando estructuras de datos listas para consumo.
+- Uso de **Notebooks con PySpark** para procesamiento avanzado y transformación de datos dentro de Fabric.
 
+---
 
-### 🎯 Objetivo
-Aportar un valor añadido en cada proyecto en el que participo, siempre buscando maneras de innovar y optimizar.
+⚙️ **Automatización y desarrollo**
+- Desarrollo de **aplicaciones inteligentes** con sincronización y conexión a servicios cloud.
+- Implementación de **RPA para optimización de procesos y reducción de tareas manuales**.
+- Integración de soluciones de desarrollo con modelos de datos analíticos y procesos automatizados.
+
+---
+
+🎯 **Mi enfoque**
+Me apasiona construir sistemas que **se conectan, se actualizan de forma autónoma y generan valor real**, uniendo **desarrollo, datos y automatización** para crear soluciones escalables, eficientes y alineadas con los objetivos del negocio.
+
 ---
 ### Skills
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
