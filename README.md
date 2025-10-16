@@ -41,6 +41,14 @@ Soy desarrollador especializado en **Aplicaciones Multiplataforma**, con un enfo
 
 ---
 
+🤝 **Metodología y trabajo en equipo**
+- Enfoque Agile / Scrum en proyectos de automatización y BI.
+- Learnability — adopto nuevas herramientas como Fabric, PySpark o RPA de forma rápida y aplicada.
+- Mentalidad de entrega continua orientada a valor real para negocio.
+
+---
+
+
 🎯 **Mi enfoque**
 Me especializo en conectar **desarrollo + automatización + dato + visualización**, creando soluciones completas que:
 1. **Capturan** el dato desde múltiples fuentes.
