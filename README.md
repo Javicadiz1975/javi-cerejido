@@ -76,6 +76,21 @@ Me especializo en conectar **desarrollo + automatización + dato + visualizació
 ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat&logo=ionic&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-e25a1c?style=flat&logo=apache-spark&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=flat&logo=microsoft&logoColor=white)
+![Dataflows](https://img.shields.io/badge/Dataflows-0A75AD?style=flat&logo=azure-data-explorer&logoColor=white)
+![Lakehouse](https://img.shields.io/badge/Lakehouse-1E90FF?style=flat&logo=microsoft-azure&logoColor=white)
+![Warehouse](https://img.shields.io/badge/Warehouse-0050EF?style=flat&logo=azure-sqldatabase&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-006272?style=flat&logo=powerbi&logoColor=white)
+![APIs](https://img.shields.io/badge/APIs-4B8BBE?style=flat&logo=swagger&logoColor=white)
+![RPA](https://img.shields.io/badge/RPA-0099E5?style=flat&logo=automation-anywhere&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=flat&logo=scrumalliance&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-239120?style=flat&logo=azuredevops&logoColor=white)
+![Learnability](https://img.shields.io/badge/Learnability-5A4FCF?style=flat&logo=readthedocs&logoColor=white)
+
+
 
 ---
 
