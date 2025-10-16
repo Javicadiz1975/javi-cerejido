@@ -60,7 +60,7 @@ Me especializo en conectar **desarrollo + automatización + dato + visualizació
 
 
 ---
-### Skills
+### Stack Tecnológico
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
