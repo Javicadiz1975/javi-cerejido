@@ -11,30 +11,45 @@
 ---
 
 💼 **Sobre mí**  
-Soy desarrollador especializado en **Aplicaciones Multiplataforma**, con un enfoque orientado a soluciones inteligentes que combinan **desarrollo, automatización (RPA) y analítica de datos con Microsoft Fabric**.
-
-En mi rol actual, diseño soluciones **end-to-end**, desde la **creación de aplicaciones conectadas a servicios cloud**, hasta la **orquestación de datos mediante Dataflows y Pipelines**, y la **implementación de Lakehouse y Warehouse** para estructurar y gobernar el dato en un entorno escalable y orientado a analítica empresarial.
+Soy desarrollador especializado en **Aplicaciones Multiplataforma**, con un enfoque técnico orientado a construir soluciones **integradas, automatizadas y basadas en datos**. Combino **desarrollo de aplicaciones, automatización (RPA)** y **arquitecturas de datos dentro del ecosistema Microsoft Fabric**, creando productos digitales que no solo funcionan, sino que **se actualizan solos, centralizan el dato y generan información accionable para el negocio**.
 
 ---
 
-📊 **Ecosistema de datos y BI con Fabric**
-- Desarrollo de **dashboards y modelos semánticos en Power BI** (DAX, Power Query, rendimiento y gobernanza).
-- **Conexión de datos a APIs y bases de datos** para modelos analíticos actualizables.
-- **Dataflows y Pipelines en Fabric y Data Factory** para cargas y transformaciones automatizadas.
-- **Creación y gestión de entornos Lakehouse y Warehouse**, diseñando estructuras de datos listas para consumo.
-- Uso de **Notebooks con PySpark** para procesamiento avanzado y transformación de datos dentro de Fabric.
+📊 **Power BI y Visualización de Datos**
+- Diseño de **dashboards interactivos** con enfoque analítico y alto rendimiento.
+- Desarrollo de **modelos semánticos bien estructurados**, aplicando **buenas prácticas de gobernanza, relaciones en estrella y optimización de rendimiento**.
+- Uso avanzado de **DAX y Power Query** para crear indicadores, métricas y cálculos personalizados orientados a reporting profesional.
+- **Conexión a APIs, bases de datos y servicios externos**, consiguiendo cuadros de mando automatizados y actualizables.
+- Aplicación de **criterios de UX/UI para BI**, garantizando que el usuario final no solo vea datos, sino que los **entienda y pueda tomar decisiones reales**.
 
 ---
 
-⚙️ **Automatización y desarrollo**
-- Desarrollo de **aplicaciones inteligentes** con sincronización y conexión a servicios cloud.
-- Implementación de **RPA para optimización de procesos y reducción de tareas manuales**.
-- Integración de soluciones de desarrollo con modelos de datos analíticos y procesos automatizados.
+🏗 **Ecosistema Microsoft Fabric — Dataflows, Lakehouse, Warehouse y Automatización**
+- Construcción de **Dataflows y Pipelines** para automatizar la ingesta, limpieza y transformación del dato, eliminando procesos manuales.
+- **Diseño y creación de entornos Lakehouse y Warehouse**, estableciendo una estructura de datos organizada, gobernada y lista para consumo analítico.
+- Trabajo con **Notebooks en PySpark** para preparar, transformar y enriquecer los datos antes de su consumo en reporting y dashboards.
+- Integración de **Power BI directamente sobre Lakehouse/Warehouse**, evitando duplicidades de modelo y adoptando un enfoque **"OneLake – una única fuente de verdad"**.
+- Automatización de procesos ETL/ELT combinando **Fabric + Data Factory**, con lógica de control, validaciones y transformación de datos escalables.
+- Orquestación de soluciones completas donde **el dato entra, se procesa, se estructura, se gobierna y se visualiza** en un entorno totalmente conectado.
+
+---
+
+⚙️ **Desarrollo y Automatización (RPA)**
+- Desarrollo de **aplicaciones conectadas a datos en tiempo real**, con sincronización y lógica de negocio integrada.
+- Implementación de **RPA para reducir tareas manuales y acelerar flujos de trabajo internos**, integrando automatizaciones con dashboards y sistemas de reporting.
+- Conexión entre aplicaciones, pipelines y dashboards para conseguir una experiencia **100% integrada entre desarrollo y BI**.
 
 ---
 
 🎯 **Mi enfoque**
-Me apasiona construir sistemas que **se conectan, se actualizan de forma autónoma y generan valor real**, uniendo **desarrollo, datos y automatización** para crear soluciones escalables, eficientes y alineadas con los objetivos del negocio.
+Me especializo en conectar **desarrollo + automatización + dato + visualización**, creando soluciones completas que:
+1. **Capturan** el dato desde múltiples fuentes.
+2. **Lo transforman y estructuran** en Lakehouse/Warehouse con patrones de buena arquitectura.
+3. **Lo automatizan** mediante Dataflows y Pipelines.
+4. **Lo visualizan** en dashboards de Power BI diseñados para tomar decisiones.
+
+**Mi objetivo:** crear sistemas donde el dato fluye de forma automática, los informes se actualizan solos y la empresa **gana visibilidad y eficiencia real**.
+
 
 ---
 ### Skills
